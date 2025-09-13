@@ -1,7 +1,9 @@
 # 📚 Mini Bibliotekssystem
 
-Ett enkelt CRUD-bibliotekssystem byggt med **Python + SQLite**.  
-Du kan lägga till, visa, söka, uppdatera och ta bort böcker.
+Ett enkelt bibliotekssystem byggt i **Python + SQLite**, med både **CLI** (terminal) och **GUI** (Tkinter) versioner.  
+Du kan lägga till, visa, söka, uppdatera och ta bort böcker – allt sparas i en SQLite-databas.
+
+---
 
 ## 🚀 Funktioner
 - Lägg till böcker
@@ -9,9 +11,17 @@ Du kan lägga till, visa, söka, uppdatera och ta bort böcker.
 - Sök böcker (titel, författare, år, ISBN)
 - Uppdatera böcker
 - Ta bort böcker
+- Två gränssnitt:
+  - **CLI** (textbaserat, i terminalen)
+  - **GUI** (grafiskt, via Tkinter)
+
+---
 
 ## 🛠️ Tekniker
 - Python 3
 - SQLite3
+- Tkinter (för GUI)
+
+---
 
 ## 📂 Projektstruktur
