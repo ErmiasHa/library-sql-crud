@@ -1,0 +1,14 @@
+# Ignorera SQLite-databas
+*.db
+
+# Ignorera Python-cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorera virtuella miljöer
+.venv/
+venv/
+
+# Ignorera eventuella loggar
+*.log
